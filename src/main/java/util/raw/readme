@@ -1,0 +1,2 @@
+The classes in package 'raw' belongs to the raw kind.
+They can perform the same functions as some jdk-attached command,such as 'javac', 'java' and so on
