@@ -5,6 +5,7 @@ package basic;//: net/mindview/util/BasicGenerator.java
 public class BasicGenerator<T> implements Generator<T> {
 
 
+
     private Class<T> type;
 
     public BasicGenerator(Class<T> type) {
