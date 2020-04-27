@@ -1,4 +1,4 @@
-package util.basic;//: net/mindview/util/BasicGenerator.java
+package basic;//: net/mindview/util/BasicGenerator.java
 // Automatically create a Generator, given a class
 // with a default (no-arg) constructor.
 

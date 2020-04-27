@@ -1,6 +1,6 @@
 //: net/mindview/util/TypeCounter.java
 // Counts instances of a type family.
-package util.basic;
+package basic;
 
 import java.util.HashMap;
 import java.util.Map;

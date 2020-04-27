@@ -1,6 +1,6 @@
 //: net/mindview/util/RandomGenerator.java
 // Generators that produce random values.
-package util.basic;
+package basic;
 
 import java.util.Random;
 

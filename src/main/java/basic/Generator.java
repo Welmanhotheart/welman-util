@@ -1,6 +1,6 @@
 //: net/mindview/util/Generator.java
 // A generic interface.
-package util.basic;
+package basic;
 
 public interface Generator<T> {
     T next();
