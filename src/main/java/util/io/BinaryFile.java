@@ -1,6 +1,6 @@
-//: net/mindview/util/BinaryFile.java
+package util.io;//: net/mindview/util/BinaryFile.java
 // Utility for reading files in binary form.
-package io;
+
 
 import java.io.*;
 
